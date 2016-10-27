@@ -1,1 +1,1 @@
-var app = angular.module("PizzaPlanetApp", []);
+var app = angular.module("PizzaFever", []);
